@@ -43,3 +43,8 @@ body {
     background-image: linear-gradient(#fecc4c, #ffac33);
     border: 3px solid #feac32;
   }
+
+  audio{
+    padding-top: 30%;
+    display: none;
+  }

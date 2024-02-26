@@ -29,3 +29,8 @@ function goCave() {
 function fightDragon() {
   console.log("Fighting dragon.");
 }
+
+window.onload = function() {
+    var audio = document.getElementById("backgroundMusic");
+    audio.volume = 0.02;
+};
